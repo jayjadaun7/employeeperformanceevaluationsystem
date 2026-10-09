@@ -5,19 +5,16 @@ A Java-based web application designed to manage employee performance evaluations
 ## Project Information
 
 - **Project:** Employee Performance Evaluation System
-- **Team:** AP3
+- **Team:** Ctrl+Alt+Elite
 - **University:** Galgotias University
-- **Course:** Engineering Design and Prototyping
+- **Course:** JAVA
 
 ## Team Members
 
 | Name | Role |
 |---|---|
-| Adit Kumar Singh | Admin |
-| Prakhar Rai | Manager |
-| Pulkit | Member |
-| Pushkar Singh | Member |
-
+| Mayank Joshi | Admin |
+| Jay Jadaun | Manager |
 ## Technologies Used
 
 - **Programming Language:** Java
@@ -140,10 +137,6 @@ The project demonstrates Java object-oriented programming concepts, including:
 - Goal progress updates and notifications
 - Automated testing
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
----
-
-**Developed by Team AP3 — Galgotias University**
+**Developed by Team Ctrl+Alt+Elite— Galgotias University**
